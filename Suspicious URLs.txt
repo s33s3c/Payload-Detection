@@ -69,3 +69,16 @@ opendrive.com
 tresorit.com
 .blob.core.windows.net
 .s3.
+newdesk.top
+symantecserver.co
+msupdate.us
+msupdate.top
+gupdate.us
+aptmirror.eu
+buylap.top
+winstore.us
+tcp443.org
+mssync.one
+upmirror.top
+tcp443.
+kcp53.
